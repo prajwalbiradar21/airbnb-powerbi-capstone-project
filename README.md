@@ -2,7 +2,7 @@
 
 This repository contains my Power BI Capstone Project where I analyzed Airbnb listings across Chicago and New Orleans to extract pricing, host, and property insights etc.
 
-##Tools Used
+## Tools Used 
 Power BI: For dashboarding and visualization
 Power Query: Data cleaning and transformation
 DAX: Calculated measures and KPIs
