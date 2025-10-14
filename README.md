@@ -1,6 +1,6 @@
 # airbnb-powerbi-capstone-project
 
-<img width="361" height="140" alt="image" src="https://github.com/user-attachments/assets/ce6e474f-1d23-4448-a1d1-ba58a8ef1a8d" />
+<img width="461" height="180" alt="image" src="https://github.com/user-attachments/assets/ce6e474f-1d23-4448-a1d1-ba58a8ef1a8d" />
 
 
 This repository contains my Power BI Capstone Project where I analyzed Airbnb listings across Chicago and New Orleans to extract pricing, host, and property insights etc.
