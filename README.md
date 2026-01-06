@@ -1,4 +1,5 @@
-# airbnb-powerbi-capstone-project
+# Hotel Booking Analysis -  airbnb_powerbi_capstone_project
+
 
 <img width="461" height="180" alt="image" src="https://github.com/user-attachments/assets/ce6e474f-1d23-4448-a1d1-ba58a8ef1a8d" />
 
