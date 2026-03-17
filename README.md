@@ -1,4 +1,4 @@
-# Hotel Booking Analysis -  airbnb_powerbi_capstone_project
+![Airbnb Capstone project final_page-0001](https://github.com/user-attachments/assets/7b9d7af9-104e-4b36-b6e2-54d69538f467)# Hotel Booking Analysis -  airbnb_powerbi_capstone_project
 
 
 <img width="461" height="180" alt="image" src="https://github.com/user-attachments/assets/ce6e474f-1d23-4448-a1d1-ba58a8ef1a8d" />
@@ -54,4 +54,15 @@ Map View:
 Geospatial charts showed pricing hotspots across both cities.
 
 Certain neighborhoods had dense clusters of listings and higher average prices.
+
+
+![Airbnb Capstone project final_page-0001](https://github.com/user-attachments/assets/eb0cc86e-eb33-4fd7-bf8a-031fcaa52f5b)
+![Airbnb Capstone project final_page-0002](https://github.com/user-attachments/assets/af88eb55-08f7-4a12-8a5e-e1d16e6f2c9b)
+![Airbnb Capstone project final_page-0003](https://github.com/user-attachments/assets/bab00537-b1e0-4d7c-a501-52f54429fe60)
+![Airbnb Capstone project final_page-0004](https://github.com/user-attachments/assets/3e048622-1292-4c79-97c8-763609d53c8a)
+
+
+
+
+
 
